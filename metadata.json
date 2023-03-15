@@ -1,6 +1,7 @@
 {
 	"name": "Giannan Fixes",
 	"version": "0.0.2",
+	"reduced": false,
 	"dependencies": [],
 	"incompatible": [],
 	"overrides": {
