@@ -1,5 +1,10 @@
 {
 	"name": "Giannan Fixes",
-	"version": "0.0.1",
-	"dependencies": []
+	"version": "0.0.2",
+	"dependencies": [],
+	"overrides": {
+		"data_Easy/Armors.json": [147],
+		"data_Normal/Armors.json": [147],
+		"data_Hard/Armors.json": [147]
+	}
 }
