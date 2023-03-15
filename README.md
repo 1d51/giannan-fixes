@@ -5,6 +5,7 @@ Unofficial bug fixes for the game Odyssey of Gianna.
 
 - Fixes the bug where the Healing Core gives the Tech skill type, instead of the Magic skill type.
 - Fixes Liliana remaining as a server at Verona's when a Game Over occurs and she is added back to the party.
+- Fixes a typo for White Vanguard's dialogue in Final End number four.
 
 ## Install Instructions
 
