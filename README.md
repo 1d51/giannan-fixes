@@ -6,6 +6,7 @@ Unofficial bug fixes for the game Odyssey of Gianna.
 - Fixes the bug where the Healing Core gives the Tech skill type, instead of the Magic skill type.
 - Fixes Lilina remaining as a server at Verona's when a Game Over occurs and she is added back to the party.
 - Fixes some passive skills so that they only apply their effects when they should.
+- Fixes the Icy Shot X skill so that it targets all enemies, as per its description.
 - Fixes a typo for White Vanguard's dialogue in Final End number four.
 - Fixes a typo for the Maharani's Devoted encounter dialogue.
 
