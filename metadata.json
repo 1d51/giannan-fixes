@@ -5,9 +5,18 @@
 	"dependencies": [],
 	"incompatible": [],
 	"overrides": {
+		"data_Easy/CommonEvents.json": [346],
+		"data_Normal/CommonEvents.json": [346],
+		"data_Hard/CommonEvents.json": [346],
 		"data_Easy/Armors.json": [147],
 		"data_Normal/Armors.json": [147],
-		"data_Hard/Armors.json": [147]
+		"data_Hard/Armors.json": [147],
+		"data_Easy/Skills.json": [348],
+		"data_Normal/Skills.json": [348],
+		"data_Hard/Skills.json": [348],
+		"data_Easy/States.json": [137],
+		"data_Normal/States.json": [137],
+		"data_Hard/States.json": [137]
 	}
 	
 }
