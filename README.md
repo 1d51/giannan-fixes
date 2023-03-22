@@ -4,7 +4,7 @@ Unofficial bug fixes for the game Odyssey of Gianna.
 ## Features
 
 - Fixes the bug where the Healing Core gives the Tech skill type, instead of the Magic skill type.
-- Fixes the bug where, when a character reached max lust while afflicted by Denial, other max lust effects would also trigger.
+- Fixes the bug where reaching max lust while afflicted by Denial makes other max lust effects also trigger.
 - Fixes Lilina remaining as a server at Verona's when a Game Over occurs and she is added back to the party.
 - Fixes the issue where Sentry Scarecrows could not target Annie or Samona with their on-death skill.
 - Fixes states such as Petrified, Puppet, and Relic so they resist Haigure Loop and Faceless.
