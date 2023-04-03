@@ -14,7 +14,7 @@ Unofficial bug fixes for the game Odyssey of Gianna.
 - Fixes the Fantasize skill so that it works for characters other than Alisha.
 - Fixes the issue where Lewd Inspiration increased the cooldown of Vibes.
 - Fixes a typo for White Vanguard's dialogue in Final End number four.
-- Fixed status priority to make sure Puppet overrides Zombie and Cow.
+- Fixes status priority to make sure Puppet overrides Zombie and Cow.
 - Fixes Samona's Master Puppeteer replacing One Step Ahead's effect.
 - Fixes a typo for the Maharani's Devoted encounter dialogue.
 - Fixes the Magical Blast icon in bullet crafting.
